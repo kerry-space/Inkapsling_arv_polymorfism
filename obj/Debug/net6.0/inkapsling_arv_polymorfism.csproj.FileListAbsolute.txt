@@ -1,0 +1,15 @@
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/bin/Debug/net6.0/inkapsling_arv_polymorfism
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/bin/Debug/net6.0/inkapsling_arv_polymorfism.deps.json
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/bin/Debug/net6.0/inkapsling_arv_polymorfism.runtimeconfig.json
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/bin/Debug/net6.0/inkapsling_arv_polymorfism.dll
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/bin/Debug/net6.0/inkapsling_arv_polymorfism.pdb
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/inkapsling_arv_polymorfism.csproj.AssemblyReference.cache
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/inkapsling_arv_polymorfism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/inkapsling_arv_polymorfism.AssemblyInfoInputs.cache
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/inkapsling_arv_polymorfism.AssemblyInfo.cs
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/inkapsling_arv_polymorfism.csproj.CoreCompileInputs.cache
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/inkapsling_arv_polymorfism.dll
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/refint/inkapsling_arv_polymorfism.dll
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/inkapsling_arv_polymorfism.pdb
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/inkapsling_arv_polymorfism.genruntimeconfig.cache
+/Users/kerryspace/Desktop/c#-fullstack/Inkapsling_arv_polymorfism/obj/Debug/net6.0/ref/inkapsling_arv_polymorfism.dll
